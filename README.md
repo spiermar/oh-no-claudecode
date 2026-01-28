@@ -1,5 +1,13 @@
 # claude
 
+## Agents
+
+## Skills
+
+- [superpowers](https://github.com/obra/superpowers/tree/main)
+- [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
+- [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills)
+
 ## Best Practices
 
 ### Tune Instructions
@@ -20,26 +28,33 @@ Ask about technical implementation, UI/UX, edge cases, concerns, and tradeoffs. 
 Keep interviewing until we've covered everything, then write a complete spec to SPEC.md.
 ```
 
-## CLAUDE.md
+## Resources
+
+### CLAUDE.md
 
 - [CLAUDE.md](https://raw.githubusercontent.com/obra/dotfiles/6e088092406cf1e3cc78d146a5247e934912f6f8/.claude/CLAUDE.md)
 
-## Agents
+### Agents
 
+- [aitmpl.com](https://www.aitmpl.com/agents)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 - [wshobson/agents](https://github.com/wshobson/agents)
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
 - [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)
 
-## Skills
+### Skills
 
+- [skills.sh](https://skills.sh/)
+- [aitmpl.com](https://www.aitmpl.com/skills)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 - [anthropics/skills](https://github.com/anthropics/skills)
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
 - [agentskills/agentskills](https://github.com/agentskills/agentskills)
 - [obra/superpowers](https://github.com/obra/superpowers)
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
 - [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills)
@@ -63,3 +78,4 @@ Keep interviewing until we've covered everything, then write a complete spec to 
 - [Putting Spec Kit Through Its Paces: Radical Idea or Reinvented Waterfall?](https://blog.scottlogic.com/2025/11/26/putting-spec-kit-through-its-paces-radical-idea-or-reinvented-waterfall.html)
 - [How I'm using coding agents in September, 2025](https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/)
 - [Superpowers: How I'm using coding agents in October 2025](https://blog.fsck.com/2025/10/09/superpowers/)
+- [Optimize your terminal setup](https://code.claude.com/docs/en/terminal-config#iterm-2-system-notifications)
