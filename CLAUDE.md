@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Project Overview
+## Overview
 
 [Provide a brief description of what the project does]
 - Main objetive and use cases
@@ -17,7 +17,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Tooling: <package manager, build, CI>
 - Data: <DB/queue/cache>
 
-## Build Commands
+## Development Commands
 
 ```bash
 # Install dependencies
@@ -47,6 +47,22 @@ npm test path/to/test-file.test.ts
 
 # Run tests with coverage
 npm run test:coverage
+```
+
+## Code Quality
+
+```bash
+# Lint code
+npm run lint
+
+# Fix linting issues
+npm run lint:fix
+
+# Type check
+npm run typecheck
+
+# Format code
+npm run format
 ```
 
 ## Coding Standards and Conventions
@@ -88,25 +104,9 @@ npm run test:coverage
 - Use Conventional Commits specification for git commit messages
 - Use semantic versioning (SemVer)
 
-## Code Quality
-
-```bash
-# Lint code
-npm run lint
-
-# Fix linting issues
-npm run lint:fix
-
-# Type check
-npm run typecheck
-
-# Format code
-npm run format
-```
-
 ## Model Context Protocol (MCP) Servers
 
-## Architecture Overview
+## Architecture
 
 [Describe the main architectural pattern - e.g., "This is a monorepo using Turborepo with multiple packages" or "This follows a clean architecture with distinct layers"]
 - <Component A>: <responsibility>
