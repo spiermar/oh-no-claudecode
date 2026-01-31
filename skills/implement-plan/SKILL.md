@@ -1,5 +1,5 @@
 ---
-name: implementing-plans
+name: implement-plan
 description: Use when implementing solution designs from @docs/plans/ directory that include database migrations, new files, tests, and deployment steps
 ---
 
