@@ -14,7 +14,7 @@ General notes about using `claude code`, agents and skills.
 ## Workflows
 
 - [superpowers](https://github.com/obra/superpowers/tree/main)
-- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) / [oh-my-opencod](https://github.com/code-yeongyu/oh-my-opencode/)
+- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) / [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/)
 - [ralph](https://github.com/snarktank/ralph)
 
 ## Best Practices
