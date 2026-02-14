@@ -8,9 +8,14 @@ General notes about using `claude code`, agents and skills.
 
 ## Skills
 
-- [superpowers](https://github.com/obra/superpowers/tree/main)
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
 - [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills)
+
+## Workflows
+
+- [superpowers](https://github.com/obra/superpowers/tree/main)
+- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) / [oh-my-opencod](https://github.com/code-yeongyu/oh-my-opencode/)
+- [ralph](https://github.com/snarktank/ralph)
 
 ## Best Practices
 
@@ -36,7 +41,8 @@ Keep interviewing until we've covered everything, then write a complete spec to 
 
 ### CLAUDE.md
 
-- [CLAUDE.md](https://raw.githubusercontent.com/obra/dotfiles/6e088092406cf1e3cc78d146a5247e934912f6f8/.claude/CLAUDE.md)
+- [obra/CLAUDE.md](https://raw.githubusercontent.com/obra/dotfiles/6e088092406cf1e3cc78d146a5247e934912f6f8/.claude/CLAUDE.md)
+- [spiermar/CLAUDE.md](/CLAUDE.md)
 
 ### Agents
 
